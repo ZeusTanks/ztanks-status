@@ -1,20 +1,20 @@
 [
   {
-    "name": "Google",
+    "name": "Website",
     "url": "https://zeustanks.online",
     "icon": "https://icons.duckduckgo.com/ip3/zeustanks.online.ico",
-    "slug": "google",
+    "slug": "website",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 400,
-    "timeDay": 400,
-    "timeWeek": 400,
-    "timeMonth": 400,
-    "timeYear": 400,
+    "time": 3492,
+    "timeDay": 3492,
+    "timeWeek": 3492,
+    "timeMonth": 3492,
+    "timeYear": 3492,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "zeus-tanks-server",
     "status": "down",
-    "uptime": "92.62%",
-    "uptimeDay": "92.62%",
-    "uptimeWeek": "92.62%",
-    "uptimeMonth": "92.62%",
-    "uptimeYear": "92.62%",
+    "uptime": "22.22%",
+    "uptimeDay": "22.22%",
+    "uptimeWeek": "22.22%",
+    "uptimeMonth": "22.22%",
+    "uptimeYear": "22.22%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-18": 0
+      "2025-03-18": 4
     }
   }
 ]
