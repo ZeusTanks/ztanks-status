@@ -7,7 +7,7 @@ sites:
     url: https://zeustanks.online
   - name: Zeus Tanks server
     check: "tcp-ping"
-    url: server.zeustanks.online
+    url: $SERVER_IP
     port: 2351
     ipv6: false
 
