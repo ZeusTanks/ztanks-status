@@ -16,11 +16,15 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.zeustanks.online
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: ZeusTanks Service status
+  logoUrl: https://cdn.discordapp.com/icons/1286862621425008740/2430b85419192da5e6c04a5b660f197d.webp?size=1024&format=webp
+  name: ZeusTanks Status
   introTitle: ""
   introMessage: ""
   navbar:
+    - title: Website
+      href: https://zeustanks.online
+    - title: Discord
+      href: https://discord.gg/fUVc5VSSeV
     - title: Status
       href: /
 skipDeleteIssues: true
